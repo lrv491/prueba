@@ -3,3 +3,57 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: rgb(131, 60, 60);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+img{
+    width:300px;
+    display:block;
+    margin: auto;
+}
+
+.contenedor-texto{
+    background-color: rgba(255, 255, 255, 0.605);
+    padding: 1rem;
+    
+    width: max-content;
+    margin:auto;
+    margin-top:2em;
+}
+
+#contenedor-formulario{
+    background-color: rgb(39, 107, 130);
+    width: max-content;
+    padding: 1.5rem;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+
+label{
+    display: block;
+    margin-top: 0.5rem;
+}
+
+fieldset{
+    margin: 0.5rem;
+}
+
+#boton-enviar{
+    display: block;
+    margin: auto;
+    margin-top: 0.5rem;
+}
+
+h1{
+    color: aliceblue;
+}
+
+
